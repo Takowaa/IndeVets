@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.glav-menu {
+    background-color: #284854;
+    height: 800px;
+}
+
+nav {
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+    padding-top: 23px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1240px;
+}
+
+.menu {
+    background-color: #60C1BD;
+    border: 2px solid #60C1BD;
+    box-sizing: border-box;
+    border-radius: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+
+.menu li a {
+    color: #fffd;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    color: #284854;
+}
+
+.menu li a.logo {
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.vetr {
+    margin-left: 270px;
+}
+
+.login {
+    margin-left: 100px;
+    background: none;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    padding: 4px 21px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.done {
+    font-weight: normal;
+    font-size: 85px;
+    line-height: 102px;
+    color: #8BC441;
+    margin-bottom: 60px;
+}
+
+.make {
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-bottom: 120px;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box-right {
+    width: 506px;
+    height: 203px;
+    background: #F4F6F0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.veter {
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 43px;
+    color: #8BC441;
+    font-family: Roboto;
+    font-family: Roboto;
+    margin-bottom: 12px;
+}
+
+.an {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: #60C1BD;
+}
+
+.box-left {
+    width: 506px;
+    height: 199px;
+    background: #F4F6F0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.works {
+    text-align: center;
+    margin-top: 285px;
+}
+
+.start {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    color: #60C1BD;
+}
+
+.how {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 64px;
+    text-align: center;
+    color: #284854;
+    margin-bottom: 159px;
+}
+
+.flex-dogs {
+    display: flex;
+    justify-content: space-around;
+}
+
+.step {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #798B56;
+    margin-bottom: 10px;
+}
+
+.vets {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    color: #8BC441;
+}
+
+.doctor {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 29px;
+    color: #284854;
+}
+
+.dogs-img {
+    margin-bottom: 98px;
+}
+
+.cat-back {
+    background: #F4F6F0;
+}
+
+.flex-cat {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 83px;
+}
+
+.are {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    color: #60C1BD;
+    margin-bottom: 10px;
+}
+
+.our {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 64px;
+    color: #284854;
+    margin-bottom: 30px;
+}
+
+.better {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    color: #284854;
+    margin-bottom: 52px;
+}
+
+.why-indevets {
+    padding: 4px 8px;
+    color: #60C1BD;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    background: none;
+    border: 1px solid #60C1BD;
+    margin-left: 30px;
+    margin-bottom: 148px;
+}
+
+.bike-dog {
+    background: #8BC441;
+}
+
+.flex-bike {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 89px;
+}
+
+.pretty {
+    margin-left: 165px;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-bottom: 57px;
+}
+
+.page {
+    display: flex;
+}
+
+.hospital {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-left: 165px;
+    margin-bottom: 86px;
+}
+
+footer {
+    background: #E5E5E5;
+}
+
+.flex-footer {
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #284854;
+    margin-bottom: 26px;
+}
+
+.explore {
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #60C1BD;
+    margin-bottom: 20px;
+}
+
+.footer-img {
+    margin-top: 20px;
+}
+
+.adres {
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #60C1BD;
+    margin-bottom: 30px;
+}
+
+.footer-right {
+    margin-bottom: 73px;
+}
+
+.footer-blog {
+    display: flex;
+}
+
+.explore2 {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #60C1BD;
+    padding-right: 40px;
+    margin-bottom: 38px;
+}
+
+.end {
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #284854;
+    padding-bottom: 45px;
+}
